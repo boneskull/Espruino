@@ -1,7 +1,10 @@
 # espruino
 
 Official Espruino modules packaged as an NPM module.
- 
+
+***Note:*** **This is not an official repo, but it contains the official modules
+upon install.**
+
 ## Why?
  
 So you can write your "apps" for Espruino like you would a NodeJS one.  
