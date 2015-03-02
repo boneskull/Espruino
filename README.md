@@ -16,6 +16,7 @@ dht.connect(A0);
 dht.read(function (a) {
   console.log('Temp is ' + a.temp.toString() + ' and RH is ' + a.rh.toString());
 });
+```
 
 ## Installation
 
